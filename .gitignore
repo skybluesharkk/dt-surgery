@@ -1,0 +1,8 @@
+# Python env
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded / derived dataset files (large; re-create with scripts/)
+data/*
+!data/episode_index.csv
